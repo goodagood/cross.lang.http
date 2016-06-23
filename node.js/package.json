@@ -1,0 +1,14 @@
+{
+  "name": "server_client_node.js",
+  "version": "1.0.0",
+  "description": "server and client to get json input and output from others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrew",
+  "license": "ISC",
+  "dependencies": {
+    "request-json": "^0.5.6"
+  }
+}
